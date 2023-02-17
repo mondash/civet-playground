@@ -1,0 +1,9 @@
+{
+  "name": "@mondash/civet-playground",
+  "description": "Playing around with Civet syntax for TypeScript",
+  "version": "1.0.0",
+  "repository": "https://github.com/mondash/civet-playground.git",
+  "author": "Matthew Ondash <ondashm@gmail.com>",
+  "license": "MIT",
+  "main": "dist/index.js"
+}
